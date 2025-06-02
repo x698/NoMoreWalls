@@ -1,11 +1,4 @@
 proxies:
-- cipher: chacha20-ietf-poly1305
-  name: 2|4🇭🇰香港|官网：m5c3cloud.pro
-  password: 83f7efcf-e0a6-4d7b-9f93-42af962decea
-  port: 31141
-  server: freem.vidalith.com
-  type: ss
-  udp: true
 - name: 15|GB_speednode_0070
   network: ws
   port: 8880
