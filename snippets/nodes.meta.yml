@@ -1658,7 +1658,7 @@ proxies:
         Gecko) Chrome/53.0.2785.143 Safari/537.36
     path: /
   xudp: true
-- name: '10|Channel id: @ShadowProxy66рҹҮӯ...'
+- name: '10|Channel id: @ShadowProxy66🇭🇰'
   password: nfsn666
   port: 8888
   server: hk.nfsn666.gq
@@ -1692,7 +1692,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 11|All рҹҮ @Cook_Vpn
+- name: 11|All  @Cook_Vpn
   obfs: salamander
   obfs-password: nZ1fJMEpOR41WvXM4p98ryGE
   password: 5f81e5a7-8362-4af4-b688-81241c3a4c51
@@ -1722,6 +1722,14 @@ proxies:
   password: dongtaiwang.com
   port: 4710
   server: 108.181.5.130
+  skip-cert-verify: true
+  sni: apple.com
+  tls: false
+  type: hysteria2
+- name: '11,12|Channel id: @ShadowProxy66🇫🇷'
+  password: dongtaiwang.com
+  port: 31180
+  server: 51.159.111.32
   skip-cert-verify: true
   sni: apple.com
   tls: false
@@ -1813,14 +1821,6 @@ proxies:
   port: 42353
   server: 185.184.70.120
   skip-cert-verify: true
-  tls: false
-  type: hysteria2
-- name: '12|Channel id: @ShadowProxy66🇫🇷'
-  password: dongtaiwang.com
-  port: 31180
-  server: 51.159.111.32
-  skip-cert-verify: true
-  sni: apple.com
   tls: false
   type: hysteria2
 - name: '12|Channel id: @ShadowProxy66🇺🇸 #3'
