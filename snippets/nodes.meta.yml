@@ -1790,6 +1790,14 @@ proxies:
   sni: apple.com
   tls: false
   type: hysteria2
+- name: '11,12|Channel id: @ShadowProxy66🇫🇷'
+  password: dongtaiwang.com
+  port: 31180
+  server: 51.159.111.32
+  skip-cert-verify: true
+  sni: apple.com
+  tls: false
+  type: hysteria2
 - name: '11|@Filter_breaker | 🏴‍☠️ NA #4'
   password: e8f9a0b1-c2d3-4567-f012-6789012345wx
   port: 9446
@@ -1914,14 +1922,6 @@ proxies:
   port: 42353
   server: 185.184.70.120
   skip-cert-verify: true
-  tls: false
-  type: hysteria2
-- name: '12|Channel id: @ShadowProxy66🇫🇷'
-  password: dongtaiwang.com
-  port: 31180
-  server: 51.159.111.32
-  skip-cert-verify: true
-  sni: apple.com
   tls: false
   type: hysteria2
 - name: '12|Channel id: @ShadowProxy66🇺🇸 #3'
