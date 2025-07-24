@@ -117,7 +117,7 @@ proxies:
   type: trojan
   udp: true
 - cipher: aes-256-cfb
-  name: 12|tg频道:@ripaojiedian
+  name: 13|tg频道:@ripaojiedian
   password: amazonskr05
   port: 443
   server: 3.38.148.178
@@ -125,7 +125,7 @@ proxies:
   type: ss
 - alterId: 2
   cipher: auto
-  name: 12,13|香港|@ripaojiedian
+  name: 13,14|香港|@ripaojiedian
   network: ws
   port: '30809'
   server: v9.heduian.link
@@ -140,7 +140,7 @@ proxies:
       Host: baidu.com
     path: /oooo
 - cipher: aes-256-gcm
-  name: 12|🇭🇰 香港2|@ripaojiedian
+  name: 13|🇭🇰 香港2|@ripaojiedian
   password: 9bfdde71b4c0
   plugin: v2ray-plugin
   plugin-opts:
@@ -156,7 +156,7 @@ proxies:
   type: ss
 - alterId: 0
   cipher: auto
-  name: 12|🇭🇰 香港3|@ripaojiedian
+  name: 13|🇭🇰 香港3|@ripaojiedian
   port: 11200
   server: 43.247.135.254
   skip-cert-verify: false
@@ -164,7 +164,7 @@ proxies:
   tls: false
   type: vmess
   uuid: 1edd0cbc-7fde-4c9d-9909-1fc0e2a8f6aa
-- name: 12,13|香港4|@ripaojiedian
+- name: 13,14|香港4|@ripaojiedian
   network: tcp
   password: d0d08cddacc3190ea81b1b792e1b5fde
   port: 2078
@@ -172,7 +172,7 @@ proxies:
   skip-cert-verify: true
   sni: www.baidu.com
   type: trojan
-- name: 12,13|香港5|@ripaojiedian
+- name: 13,14|香港5|@ripaojiedian
   network: tcp
   password: d0d08cddacc3190ea81b1b792e1b5fde
   port: 443
@@ -181,7 +181,7 @@ proxies:
   sni: m.avhxc.cn
   type: trojan
 - cipher: chacha20-ietf
-  name: 12|🇭🇰 香港6|@ripaojiedian
+  name: 13|🇭🇰 香港6|@ripaojiedian
   password: asd123456
   port: 8388
   server: 103.149.183.154
@@ -189,7 +189,7 @@ proxies:
   type: ss
 - alterId: 64
   cipher: auto
-  name: 12|🇹🇼 台湾|@ripaojiedian
+  name: 13|🇹🇼 台湾|@ripaojiedian
   port: 40180
   server: 183.249.207.249
   skip-cert-verify: false
@@ -198,7 +198,7 @@ proxies:
   type: vmess
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
 - cipher: chacha20-ietf-poly1305
-  name: 12|🇹🇼 台湾2|@ripaojiedian
+  name: 13|🇹🇼 台湾2|@ripaojiedian
   password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
   plugin: obfs
   plugin-opts:
@@ -209,7 +209,7 @@ proxies:
   tfo: false
   type: ss
 - cipher: rc4-md5
-  name: 12|🇯🇵 日本|@ripaojiedian
+  name: 13|🇯🇵 日本|@ripaojiedian
   password: efanccyun
   plugin: obfs
   plugin-opts:
@@ -220,7 +220,7 @@ proxies:
   tfo: false
   type: ss
 - cipher: aes-256-gcm
-  name: 12|🇯🇵 日本2|@ripaojiedian
+  name: 13|🇯🇵 日本2|@ripaojiedian
   password: 823e135ed103
   plugin: v2ray-plugin
   plugin-opts:
@@ -234,7 +234,7 @@ proxies:
   server: 137.220.191.40
   tfo: false
   type: ss
-- name: 12,13|日本3|@ripaojiedian
+- name: 13,14|日本3|@ripaojiedian
   network: tcp
   password: d0d08cddacc3190ea81b1b792e1b5fde
   port: 40937
@@ -242,7 +242,7 @@ proxies:
   skip-cert-verify: true
   sni: www.baidu.com
   type: trojan
-- name: 12,13|日本4|@ripaojiedian
+- name: 13,14|日本4|@ripaojiedian
   network: tcp
   password: d0d08cddacc3190ea81b1b792e1b5fde
   port: 41225
@@ -250,7 +250,7 @@ proxies:
   skip-cert-verify: true
   sni: www.baidu.com
   type: trojan
-- name: 12,13|新加坡|@ripaojiedian
+- name: 13,14|新加坡|@ripaojiedian
   network: tcp
   password: d0d08cddacc3190ea81b1b792e1b5fde
   port: 25618
@@ -258,7 +258,7 @@ proxies:
   skip-cert-verify: true
   sni: www.baidu.com
   type: trojan
-- name: 12,13|新加坡2|@ripaojiedian
+- name: 13,14|新加坡2|@ripaojiedian
   network: tcp
   password: d0d08cddacc3190ea81b1b792e1b5fde
   port: 44123
@@ -266,7 +266,7 @@ proxies:
   skip-cert-verify: true
   sni: www.baidu.com
   type: trojan
-- name: 12,13|韩国|@ripaojiedian
+- name: 13,14|韩国|@ripaojiedian
   network: tcp
   password: d0d08cddacc3190ea81b1b792e1b5fde
   port: 4448
@@ -276,7 +276,7 @@ proxies:
   type: trojan
 - alterId: 0
   cipher: auto
-  name: 12|🇰🇷 韩国2|@ripaojiedian
+  name: 13|🇰🇷 韩国2|@ripaojiedian
   port: 23562
   server: 45.141.136.99
   skip-cert-verify: false
@@ -286,7 +286,7 @@ proxies:
   uuid: b4d79a0a-2ddf-44f9-bc9a-e675ed4a3b01
 - alterId: 0
   cipher: auto
-  name: 12,13|韩国3|@ripaojiedian
+  name: 13,14|韩国3|@ripaojiedian
   network: ws
   port: '8080'
   server: www.wto.org
@@ -301,7 +301,7 @@ proxies:
       Host: h2.xuherp.ggff.net
     path: /
 - cipher: rc4-md5
-  name: 12|🇺🇸 美国2|@ripaojiedian
+  name: 13|🇺🇸 美国2|@ripaojiedian
   password: efanccyun
   plugin: obfs
   plugin-opts:
@@ -311,7 +311,7 @@ proxies:
   server: cn01.efan8867801.xyz
   tfo: false
   type: ss
-- name: 12,14|SG_speednode_0256
+- name: 13,15|SG_speednode_0256
   network: ws
   password: Aimer
   port: 8443
@@ -324,7 +324,7 @@ proxies:
     headers:
       Host: tyep.esslh.filegear-sg.me
     path: /
-- name: 12,13|美国3|@ripaojiedian
+- name: 13,14|美国3|@ripaojiedian
   network: tcp
   password: d0d08cddacc3190ea81b1b792e1b5fde
   port: 3596
@@ -332,7 +332,7 @@ proxies:
   skip-cert-verify: true
   sni: www.baidu.com
   type: trojan
-- name: 12,13|美国4|@ripaojiedian
+- name: 13,14|美国4|@ripaojiedian
   network: tcp
   password: d0d08cddacc3190ea81b1b792e1b5fde
   port: 32962
@@ -341,7 +341,7 @@ proxies:
   sni: www.baidu.com
   type: trojan
 - cipher: aes-256-gcm
-  name: 12|🇮🇩 印度尼西亚
+  name: 13|🇮🇩 印度尼西亚
   password: cj3STx+0NwLUQFvJWHbKmQ==
   port: 42277
   server: iepl.huli168.com
@@ -349,7 +349,7 @@ proxies:
   type: ss
 - alterId: 0
   cipher: auto
-  name: 13|香港3|@ripaojiedian
+  name: 14|香港3|@ripaojiedian
   network: tcp
   port: '11200'
   server: 43.247.135.254
@@ -359,7 +359,7 @@ proxies:
   uuid: 1edd0cbc-7fde-4c9d-9909-1fc0e2a8f6aa
 - alterId: 0
   cipher: auto
-  name: 13|香港v2|@ripaojiedian
+  name: 14|香港v2|@ripaojiedian
   network: kcp
   port: '63101'
   server: 47.76.160.154
@@ -369,7 +369,7 @@ proxies:
   uuid: ba47c516-0c18-49d5-9548-6370c835e163
 - alterId: 64
   cipher: auto
-  name: 13|台湾|@ripaojiedian
+  name: 14|台湾|@ripaojiedian
   network: tcp
   port: '40180'
   server: 183.249.207.249
@@ -379,7 +379,7 @@ proxies:
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
 - alterId: 0
   cipher: auto
-  name: 13|日本v2|@ripaojiedian
+  name: 14|日本v2|@ripaojiedian
   network: kcp
   port: '56428'
   server: 8.211.136.249
@@ -389,7 +389,7 @@ proxies:
   uuid: 2a37eb45-4cdd-4c2e-914e-ed2f972e4003
 - alterId: 0
   cipher: auto
-  name: 13|韩国2|@ripaojiedian
+  name: 14|韩国2|@ripaojiedian
   network: tcp
   port: '23562'
   server: 45.141.136.99
@@ -397,7 +397,7 @@ proxies:
   tls: false
   type: vmess
   uuid: b4d79a0a-2ddf-44f9-bc9a-e675ed4a3b01
-- name: 13|美国|@ripaojiedian
+- name: 14|美国|@ripaojiedian
   network: ws
   password: Aimer
   port: 8443
@@ -408,7 +408,7 @@ proxies:
     headers:
       Host: tyep.esslh.filegear-sg.me
     path: '%2F'
-- name: 14|GB_speednode_0122
+- name: 15|GB_speednode_0122
   password: '74260628090146500'
   port: 443
   server: stirring-parakeet.shiner427.skin
