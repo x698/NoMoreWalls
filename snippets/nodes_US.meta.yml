@@ -1331,6 +1331,14 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
+- name: '10|Channel id: @ShadowProxy66 🇺🇸 #3'
+  password: dongtaiwang.com
+  port: 63015
+  server: 108.181.5.130
+  skip-cert-verify: true
+  sni: apple.com
+  tls: false
+  type: hysteria2
 - name: 10|🇸美国 加 拉 DIGITALOCEAN-ASN
   password: iMqY3uG_5pgEj3hCfyHB-0vB
   port: 443
