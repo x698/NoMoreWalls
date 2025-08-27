@@ -204,16 +204,6 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 9|2@oneclickvpnkeys
-  obfs: salamander
-  obfs-password: GdQ4bgvT8RFwuWi2
-  password: 8864aa9f-7517-4fd5-aef1-32050eb3095d
-  port: 30205
-  server: net2025.afsharidempire.uk
-  skip-cert-verify: true
-  sni: net2025.afsharidempire.uk
-  tls: false
-  type: hysteria2
 - name: 9|HK
   password: Cyi3TPih9FtQRwsZAh8aT6ynGJk
   port: 2166
@@ -267,16 +257,6 @@ proxies:
   server: 35.94.124.236
   skip-cert-verify: true
   sni: bing.com
-  tls: false
-  type: hysteria2
-- name: '9,10|@Daily_Configs #5'
-  obfs: salamander
-  obfs-password: Telegram-->@Ln2Ray
-  password: Telegram-->@Ln2Ray
-  port: 45000
-  server: gavazn.lnmarketplace.net
-  skip-cert-verify: true
-  sni: gavazn.55994421.xyz
   tls: false
   type: hysteria2
 - name: 9|🇸US
@@ -389,14 +369,6 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 9|98@oneclickvpnkeys
-  password: dongtaiwang.com
-  port: 50066
-  server: 51.158.218.2
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
 - name: 9,10| 𝗝𝗼𝗶𝗻 ➠ @Viturey
   password: dongtaiwang.com
   port: 5355
@@ -475,14 +447,6 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 9|57@oneclickvpnkeys
-  password: wxiTacqUnFMT6QPG1xHX578Omo
-  port: 7444
-  server: 138.197.185.116
-  skip-cert-verify: true
-  sni: bing.com
-  tls: false
-  type: hysteria2
 - name: '9|JP #1'
   password: yD0mxkCA18WgPD1uVGd3Eu1dc
   port: 27789
@@ -547,6 +511,13 @@ proxies:
   server: s15.serv00.com
   skip-cert-verify: true
   sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: '10|Telegram:@config_proxy '
+  password: 7GEEGxAfgQaVPQX0PGk7lIuj3I
+  port: 10820
+  server: 158.41.110.234
+  sni: ''
   tls: false
   type: hysteria2
 - name: 10|@FreakConfig
@@ -692,6 +663,16 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
+- name: '10|@Daily_Configs #5'
+  obfs: salamander
+  obfs-password: Telegram-->@Ln2Ray
+  password: Telegram-->@Ln2Ray
+  port: 45000
+  server: gavazn.lnmarketplace.net
+  skip-cert-verify: true
+  sni: gavazn.55994421.xyz
+  tls: false
+  type: hysteria2
 - alpn:
   - h3
   name: '10|@Change_IP1-HYS #3'
@@ -713,7 +694,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: 10|🇳🇱@FreakConfig
+- name: '10|🇳🇱@V2NOT #1'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
