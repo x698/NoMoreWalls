@@ -44,13 +44,12 @@ proxies:
   type: vmess
   uuid: e43b6c20-2f61-4e8c-a692-c737fa5cfa0d
 - client-fingerprint: chrome
-  name: 13,14|香港4|@ripaojiedian
-  network: tcp
+  name: 13|🇭🇰 香港4|@ripaojiedian
   password: 253bc477d4e43c209f2d427272968280
   port: 443
-  server: 112.118.248.22
-  skip-cert-verify: false
-  sni: www.nintendogames.net
+  server: 1.64.115.53
+  skip-cert-verify: true
+  sni: www.baidu.com
   type: trojan
 - cipher: aes-256-gcm
   client-fingerprint: chrome
@@ -61,25 +60,29 @@ proxies:
   tfo: false
   type: ss
 - client-fingerprint: chrome
-  name: 13,14|香港6|@ripaojiedian
-  network: tcp
+  name: 13|🇭🇰 香港6|@ripaojiedian
   password: 253bc477d4e43c209f2d427272968280
   port: 447
-  server: 160.16.63.16
-  skip-cert-verify: true
-  sni: www.baidu.com
+  server: 160.16.70.180
+  skip-cert-verify: false
+  sni: www.nintendogames.net
   type: trojan
-- alterId: 64
+- alterId: 2
   cipher: auto
   client-fingerprint: chrome
   name: 13|🇭🇰 香港7|@ripaojiedian
-  port: 52512
-  server: 183.240.180.47
+  network: ws
+  port: 80
+  server: 697dc551-t1i9s0-tm53cm-1ol97.hk3.p5pv.com
   skip-cert-verify: false
   tfo: false
   tls: false
   type: vmess
-  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+  uuid: 93fb69fc-77cf-11ee-85ee-f23c91369f2d
+  ws-opts:
+    headers:
+      Host: broadcastlv.chat.bilibili.com
+    path: /
 - alterId: 0
   cipher: auto
   name: 14|香港3|@ripaojiedian
@@ -90,6 +93,21 @@ proxies:
   tls: false
   type: vmess
   uuid: e43b6c20-2f61-4e8c-a692-c737fa5cfa0d
+- name: 14|香港4|@ripaojiedian
+  network: tcp
+  password: 253bc477d4e43c209f2d427272968280
+  port: 443
+  server: 112.118.248.22
+  sni: www.nintendogames.net
+  type: trojan
+- name: 14|香港6|@ripaojiedian
+  network: tcp
+  password: 253bc477d4e43c209f2d427272968280
+  port: 447
+  server: 160.16.63.16
+  skip-cert-verify: true
+  sni: www.baidu.com
+  type: trojan
 - alterId: 64
   cipher: auto
   name: 14|香港7|@ripaojiedian
