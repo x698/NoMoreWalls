@@ -15,14 +15,6 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '11|All--@IRAN_V2RAY1🇺🇸 #3'
-  password: df7bed3c-06eb-11f0-8ebc-f23c93141fad
-  port: 443
-  server: 9edb1f6e-t56dc0-t9lxaa-1glq.la.shifen.uk
-  skip-cert-verify: false
-  sni: 9edb1f6e-t56dc0-t9lxaa-1glq.la.shifen.uk
-  tls: false
-  type: hysteria2
 - name: '11|All--@IRAN_V2RAY1🇺🇸 #4'
   password: df7bed3c-06eb-11f0-8ebc-f23c93141fad
   port: 1743
@@ -35,15 +27,15 @@ proxies:
   network: tcp
   password: dd2f25b4c70689de8bc0f7fa9d6591cb
   port: 2890
-  server: 52.196.180.54
+  server: 160.16.138.24
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
 - name: 13,14|美国2|@ripaojiedian
   network: tcp
   password: dd2f25b4c70689de8bc0f7fa9d6591cb
-  port: 4211
-  server: 160.16.117.182
+  port: 2053
+  server: 160.16.130.66
   skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
@@ -55,3 +47,9 @@ proxies:
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
+- cipher: aes-128-gcm
+  name: 13|🇺🇸 美国4|@ripaojiedian
+  password: 79ad2852-eb76-4c3e-ba4d-3668ee5ece74
+  port: 23344
+  server: 103.219.103.217
+  type: ss
