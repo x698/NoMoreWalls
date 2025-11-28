@@ -1,4 +1,20 @@
 proxies:
+- name: 10|🇺🇸b@oneclickvpnkeys
+  password: 312d3555-d7a3-4674-869a-0e5b7ee03a35
+  port: 443
+  server: 208.87.242.77
+  skip-cert-verify: true
+  sni: www.apple.com
+  tls: false
+  type: hysteria2
+- name: 10|🇺🇸c@oneclickvpnkeys
+  password: 312d3555-d7a3-4674-869a-0e5b7ee03a35
+  port: 443
+  server: 208.87.242.97
+  skip-cert-verify: true
+  sni: www.apple.com
+  tls: false
+  type: hysteria2
 - name: 11|All-@V2rayAlpha--46
   password: 6286105c-fb6d-11ef-be96-f23c93136cb3
   port: 1743
@@ -39,41 +55,15 @@ proxies:
   sni: e10829f0-t4un40-t9lb2a-1glq.la.shifen.uk
   tls: false
   type: hysteria2
-- name: 13|🇺🇸 美国|@ripaojiedian
-  password: 2cf6d686799e6fa95316394064f26c0a
-  port: 4054
-  server: 160.16.70.180
-  skip-cert-verify: false
-  sni: www.nintendogames.net
-  type: trojan
-- name: 13|🇺🇸 美国2|@ripaojiedian
-  password: 2cf6d686799e6fa95316394064f26c0a
-  port: 2890
-  server: 160.16.117.182
-  skip-cert-verify: false
-  sni: www.nintendogames.net
-  type: trojan
-- name: 13|🇺🇸 美国3|@ripaojiedian
-  password: BxceQaOe
-  port: 2569
-  server: 18.183.209.234
-  skip-cert-verify: true
-  sni: t.me%2Fripaojiedian
-  type: trojan
-- cipher: aes-256-cfb
-  name: 13|🇺🇸 美国4|@ripaojiedian
-  password: amazonskr05
-  port: 443
-  server: 107.23.148.46
-  type: ss
-- name: 14|美国|@ripaojiedian
+- name: 13,14|美国|@ripaojiedian
   network: tcp
   password: 2cf6d686799e6fa95316394064f26c0a
   port: 4054
   server: 153.121.76.9
+  skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 14|美国2|@ripaojiedian
+- name: 13,14|美国2|@ripaojiedian
   network: tcp
   password: 2cf6d686799e6fa95316394064f26c0a
   port: 2890
@@ -81,7 +71,7 @@ proxies:
   skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
-- name: 14|美国3|@ripaojiedian
+- name: 13,14|美国3|@ripaojiedian
   network: tcp
   password: BxceQaOe
   port: 2173
