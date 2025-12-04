@@ -1,33 +1,13 @@
 proxies:
-- name: 13|🇺🇸 美国|@ripaojiedian
-  password: 79314e99f0a473fe86efc7827942ad00
-  port: 4054
-  server: 160.16.124.55
-  skip-cert-verify: false
-  sni: www.nintendogames.net
-  type: trojan
-- name: 13|🇺🇸 美国2|@ripaojiedian
-  password: 79314e99f0a473fe86efc7827942ad00
-  port: 4054
-  server: 160.16.63.16
-  skip-cert-verify: false
-  sni: www.nintendogames.net
-  type: trojan
-- name: 13|🇺🇸 美国3|@ripaojiedian
-  password: BxceQaOe
-  port: 2569
-  server: 43.206.254.28
-  skip-cert-verify: true
-  sni: t.me%2Fripaojiedian
-  type: trojan
-- name: 14|美国|@ripaojiedian
+- name: 13,14|美国|@ripaojiedian
   network: tcp
   password: 79314e99f0a473fe86efc7827942ad00
   port: 4054
   server: 16.163.0.29
+  skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 14|美国2|@ripaojiedian
+- name: 13,14|美国2|@ripaojiedian
   network: tcp
   password: 79314e99f0a473fe86efc7827942ad00
   port: 4054
@@ -35,7 +15,7 @@ proxies:
   skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
-- name: 14|美国3|@ripaojiedian
+- name: 13,14|美国3|@ripaojiedian
   network: tcp
   password: BxceQaOe
   port: 1221
@@ -43,6 +23,15 @@ proxies:
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
+- alterId: 0
+  cipher: auto
+  name: 13|🇺🇸 美国4|@ripaojiedian
+  port: 11133
+  server: 198.181.34.22
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: 29b25bdf-9a83-4dde-90c7-77c51cd23724
 - alterId: 0
   cipher: auto
   name: 14|美国4|@ripaojiedian
