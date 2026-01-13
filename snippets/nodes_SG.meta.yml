@@ -1,33 +1,21 @@
 proxies:
-- name: 13|🇸🇬 新加坡|@ripaojiedian
-  password: 61d8077bfb174e171b8283f155a555ad
-  port: 3901
-  server: 153.121.45.139
-  skip-cert-verify: false
-  sni: www.nintendogames.net
-  type: trojan
-- name: 13|🇸🇬 新加坡2|@ripaojiedian
-  password: 61d8077bfb174e171b8283f155a555ad
-  port: 3076
-  server: 153.121.45.139
-  skip-cert-verify: false
-  sni: www.nintendogames.net
-  type: trojan
-- name: 13|🇸🇬 新加坡3|@ripaojiedian
-  password: BxceQaOe
-  port: 3579
-  server: 54.95.61.147
+- name: 9|SG
+  password: e7965e64-e001-4e8c-8273-39c61ff4a094
+  port: 30000
+  server: sg3.oomz.ru
   skip-cert-verify: true
-  sni: t.me%252Fripaojiedian
-  type: trojan
-- name: 14|新加坡|@ripaojiedian
+  sni: bing.com
+  tls: false
+  type: hysteria2
+- name: 12,13|新加坡|@ripaojiedian
   network: tcp
   password: 61d8077bfb174e171b8283f155a555ad
   port: 3901
   server: 153.121.65.107
+  skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 14|新加坡2|@ripaojiedian
+- name: 12,13|新加坡2|@ripaojiedian
   network: tcp
   password: 61d8077bfb174e171b8283f155a555ad
   port: 544
@@ -35,7 +23,7 @@ proxies:
   skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
-- name: 14|新加坡3|@ripaojiedian
+- name: 12,13|新加坡3|@ripaojiedian
   network: tcp
   password: BxceQaOe
   port: 381
@@ -45,7 +33,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: 15|SG_speednode_0010
+  name: 14|SG_speednode_0010
   port: 25863
   reality-opts:
     public-key: LLou1BsPSrrNXOJOb7-YZ159F_MAdrTSmP8loWG6GhE
