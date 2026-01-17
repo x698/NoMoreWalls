@@ -1,40 +1,21 @@
 proxies:
-- name: 13|🇺🇸 美国|@ripaojiedian
-  password: 4843e94d205f3893f588255a591abe94
-  port: 5076
-  server: 160.16.105.192
-  skip-cert-verify: false
-  sni: www.nintendogames.net
-  type: trojan
-- name: 13|🇺🇸 美国2|@ripaojiedian
-  password: 4843e94d205f3893f588255a591abe94
-  port: 5076
-  server: 160.16.85.33
-  skip-cert-verify: false
-  sni: www.nintendogames.net
-  type: trojan
-- name: 13|🇺🇸 美国3|@ripaojiedian
-  password: BxceQaOe
-  port: 1221
-  server: 54.199.172.151
-  skip-cert-verify: true
-  sni: t.me%2Fripaojiedian
-  type: trojan
-- name: 14|美国|@ripaojiedian
+- name: 13,14|美国|@ripaojiedian
   network: tcp
   password: 4843e94d205f3893f588255a591abe94
   port: 5076
   server: 160.16.72.33
+  skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 14|美国2|@ripaojiedian
+- name: 13,14|美国2|@ripaojiedian
   network: tcp
   password: 4843e94d205f3893f588255a591abe94
   port: 5076
   server: 160.16.87.174
+  skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 14|美国3|@ripaojiedian
+- name: 13,14|美国3|@ripaojiedian
   network: tcp
   password: BxceQaOe
   port: 4569
@@ -42,16 +23,3 @@ proxies:
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
-- name: 15|US_speednode_0047
-  network: ws
-  password: Aimer
-  port: 2053
-  server: 167.68.4.199
-  skip-cert-verify: false
-  sni: epge.muarua.filegear-sg.me
-  type: trojan
-  udp: true
-  ws-opts:
-    headers:
-      Host: epge.muarua.filegear-sg.me
-    path: /
