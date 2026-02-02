@@ -42,5 +42,5 @@ vless://8a2240da-25ca-4c95-9c55-26ef2ab70bab@206.238.237.207:2053?allowInsecure=
 vless://a7a9f670-44c0-45a9-8047-69db0203c142@144.31.1.125:443?allowInsecure=1&sni=plcdn11.suio.me&fp=chrome&security=tls#15%7CUS_speednode_0012
 vless://a7a9f670-44c0-45a9-8047-69db0203c142@plcdn11.suio.me:443?allowInsecure=1&sni=plcdn11.suio.me&security=tls#15%7CUS_speednode_0014
 vless://8a2240da-25ca-4c95-9c55-26ef2ab70bab@50.62.195.9:2053?allowInsecure=0&sni=vw.badomzamini.uk&type=ws&host=vw.badomzamini.uk&path=/latest?ed=2560security=tls#15%7CUS_speednode_0015
-hhysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000/?obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&sni=api.kermanshahi.org&note=@freeOnlineVPN#🇩🇪 - DE - @freeOnlineVPN
 https://gist.githubusercontent.com/peasoft/40b87245630092f30cc98af61190b4e2/raw/
+hhysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000/?obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&sni=api.kermanshahi.org&note=@freeOnlineVPN#🇩🇪 - DE - @freeOnlineVPN
