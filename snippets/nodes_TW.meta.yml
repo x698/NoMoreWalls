@@ -1,5 +1,5 @@
 proxies:
-- name: 9|TW
+- name: 10|TW
   password: e7965e64-e001-4e8c-8273-39c61ff4a094
   port: 30000
   server: tw.oomz.ru
@@ -7,16 +7,18 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 12|🇹🇼 台湾|@ripaojiedian
-  password: 736cd94d-7b94-3e44-8106-3419f64eaf09
-  port: 3462
-  server: a03.taipeicitygovernment.cn.ua
-  skip-cert-verify: false
-  sni: 45.32.28.232
-  type: trojan
 - alterId: 0
   cipher: auto
-  name: 13|台湾|@ripaojiedian
+  name: 13|🇹🇼 台湾|@ripaojiedian
+  port: 16811
+  server: ipv6-tw02.cnddns.com
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: a8bcce43-abda-315b-8e81-e3e65bcb3d07
+- alterId: 0
+  cipher: auto
+  name: 14|台湾|@ripaojiedian
   network: tcp
   port: '16811'
   server: ipv6-tw02.cnddns.com
