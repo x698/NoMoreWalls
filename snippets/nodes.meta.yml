@@ -70,7 +70,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '10,11|@WedBaZTel #1'
+- name: '10,11|@WedBaZTel #2'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -154,7 +154,7 @@ proxies:
   sni: www.microsoft.com
   tls: false
   type: hysteria2
-- name: 11|none
+- name: 11|EmKavpn5
   obfs: salamander
   obfs-password: Telegram-->@Ln2Ray
   password: Telegram-->@Ln2Ray
@@ -174,7 +174,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: 11|@WedBaZTel
+- name: '11|@WedBaZTel #1'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -194,7 +194,7 @@ proxies:
   sni: YAPC-1.afshin.ir@freenettir
   tls: false
   type: hysteria2
-- name: '11|@V2rayBaaz #1'
+- name: '11|@WedBaZTel #3'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -232,7 +232,7 @@ proxies:
   sni: jnir.pichondan.com
   tls: false
   type: hysteria2
-- name: 11| یگان = t.me/arisping
+- name: 11|کان رایگان = t.me/arisping
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
