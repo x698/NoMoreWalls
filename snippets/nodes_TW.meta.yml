@@ -1,11 +1,10 @@
 proxies:
 - alterId: 0
   cipher: auto
-  name: 12,13|台湾|@ripaojiedian
+  name: 12|🇹🇼 台湾|@ripaojiedian
   network: ws
-  port: '11612'
+  port: 11612
   server: tw53_2.cowvpn.space
-  servername: ''
   skip-cert-verify: false
   tls: false
   type: vmess
