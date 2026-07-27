@@ -70,5 +70,5 @@ vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.62:443?allowInsecure=1&s
 trojan://c206d543-023d-46cc-9d5a-1f0f2fc16323@188.164.248.122:443?allowInsecure=0&sni=space.byu.id.yxls.eu.cc&type=ws&host=space.byu.id.yxls.eu.cc&path=/in-pdr#13%7CNL_speednode_0006
 vless://0108c657-a9bd-4c99-9179-74050cf78889@193.233.255.4:443?allowInsecure=0&sni=de.sellflow.org&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#13%7CSE_speednode_0083
 trojan://humanity@104.16.174.12:443?allowInsecure=0&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=/assignment#13%7CUS_speednode_0090
-hhysteria2://083f9234-76f8-47f4-915e-726a767b7ad5@gc4.22556666.com:32050/?sni=gc4.22556666.com#43@oneclickvpnkeys
 https://gist.githubusercontent.com/peasoft/40b87245630092f30cc98af61190b4e2/raw/
+hhysteria2://083f9234-76f8-47f4-915e-726a767b7ad5@gc4.22556666.com:32050/?sni=gc4.22556666.com#43@oneclickvpnkeys
