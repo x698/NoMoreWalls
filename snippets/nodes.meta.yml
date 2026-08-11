@@ -615,6 +615,16 @@ proxies:
   sni: www.docker.com
   tls: false
   type: hysteria2
+- name: '10|未命名 #12'
+  obfs: salamander
+  obfs-password: mtg2vchyir6la3et
+  password: k1dom6dyqelryllv
+  port: 52021
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
 - alpn:
   - h3
   name: 10|N
@@ -630,6 +640,16 @@ proxies:
 - alpn:
   - h3
   name: 10|N2
+  obfs: salamander
+  obfs-password: zducqb7ro143x0t2
+  password: k1dom6dyqelryllv
+  port: 52076
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: 10|🇨
   obfs: salamander
   obfs-password: zducqb7ro143x0t2
   password: k1dom6dyqelryllv
