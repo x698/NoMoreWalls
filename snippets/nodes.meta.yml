@@ -6,14 +6,6 @@ proxies:
   sni: nl1.noesissite.ru
   tls: false
   type: hysteria2
-- name: 9|JP
-  password: 0c3bd8c8-53db-4126-a98f-d12d908d5301
-  port: 11000
-  server: jpa.nnpy.org
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
 - name: '9|荷兰 #1'
   password: 16ab4d4a-fd81-4535-9b7b-346677226ce8
   port: 443
@@ -238,14 +230,6 @@ proxies:
   sni: vpn-kr-003.fastervpn.world
   tls: false
   type: hysteria2
-- name: 9|🇰🇷141143 | Telegram = t.me/SOS...
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: 3.36.93.159
-  skip-cert-verify: true
-  sni: whatsapp.com
-  tls: false
-  type: hysteria2
 - name: '9|罗马尼亚 #1'
   password: Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0
   port: 8443
@@ -448,7 +432,7 @@ proxies:
   sni: hopp-legend-se.roxa.org
   tls: false
   type: hysteria2
-- name: 9|🇸139909 | ⚡️Telegram = t.me/SO...
+- name: 9|🇺🇸139909 | Telegram = t.me/SOS...
   password: qQe1z5kU8kN6SlKnDt9Ru3Qp
   port: 443
   server: 54.213.89.22
@@ -625,7 +609,7 @@ proxies:
 - alpn:
   - h3
   fingerprint: chrome
-  name: 10|🇫🇮FI-@VPNine1
+  name: 10|dc-udp-🇪🇸 Spain-Madrid-met_vg8...
   obfs: salamander
   obfs-password: 4hnuy2eg2xgo6ue0
   password: 3ff7b2e75ce84d05ae16572b60a9b707
@@ -637,7 +621,7 @@ proxies:
 - alpn:
   - h3
   fingerprint: chrome
-  name: 10|🇫🇮FI-🚀@VPNine1
+  name: 10|dc-udp- France-Bordeaux-met_vg...
   obfs: salamander
   obfs-password: x5y77oxwfcl868u3
   password: 3ff7b2e75ce84d05ae16572b60a9b707
@@ -654,55 +638,6 @@ proxies:
   obfs-password: p61ckuavkc1s2hfl
   password: 3ff7b2e75ce84d05ae16572b60a9b707
   port: 52031
-  server: assets.gateway-stream.com
-  sni: assets.gateway-stream.com
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  fingerprint: chrome
-  name: '10|🇫🇮FI-🚀@VPNine1 #1'
-  obfs: salamander
-  obfs-password: bjk7yxuzu7a0cpik
-  password: 3ff7b2e75ce84d05ae16572b60a9b707
-  port: 52085
-  server: assets.gateway-stream.com
-  sni: assets.gateway-stream.com
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  fingerprint: chrome
-  name: 10|🇫🇮141169 | ⚡️Telegram = t.me/S...
-  obfs: salamander
-  obfs-password: dscbu47eev49tv84
-  password: 3ff7b2e75ce84d05ae16572b60a9b707
-  port: 52086
-  server: assets.gateway-stream.com
-  skip-cert-verify: false
-  sni: assets.gateway-stream.com
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  fingerprint: chrome
-  name: '10|🇫🇮FI-🚀@VPNine1 #3'
-  obfs: salamander
-  obfs-password: bwgy7ppdoiz448uw
-  password: 3ff7b2e75ce84d05ae16572b60a9b707
-  port: 52087
-  server: assets.gateway-stream.com
-  sni: assets.gateway-stream.com
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  fingerprint: chrome
-  name: '10|🇫🇮FI-🚀@VPNine1 #4'
-  obfs: salamander
-  obfs-password: hitar6eeayxd7imh
-  password: 3ff7b2e75ce84d05ae16572b60a9b707
-  port: 52089
   server: assets.gateway-stream.com
   sni: assets.gateway-stream.com
   tls: false
@@ -884,7 +819,7 @@ proxies:
   sni: nl2.sferavpn.pro
   tls: false
   type: hysteria2
-- name: 10|🇩🇪DE-🚀@VPNine1
+- name: 10|🇩🇪DE-@VPNine1
   obfs: salamander
   obfs-password: 44f1c1e2f8b99e792ceed574627a1eb0
   password: cd74c0a406664a5bc0bac098220a2468
